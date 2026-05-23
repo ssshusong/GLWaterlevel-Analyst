@@ -1,5 +1,27 @@
 # GLWaterlevel-Analyst
-This is an Open-Source Remote Sensing Toolbox situated in QGIS environment for Global Lake Water Level Analysis and Prediction. See below for how to install and use this toolbox .
+This is a python-based Open-Source Remote Sensing Toolbox situated in QGIS environment for Global Lake Water Level Analysis and Prediction. The following python packages are needed and will be installed automatically to the python environment when it is loaded the first time in QGIS. 
+
+pandas
+geopandas
+podaac-data-subscriber
+datetime
+numpy
+requests
+json
+time
+ftplib
+netCDF4
+scipy
+pyproj
+xarray
+rioxarray
+geocube
+itertools
+cmdstanpy
+prophet
+statsmodels
+
+See below for how to install and use this toolbox. 
 
 **1. Installation of QGIS and the “Integrate Altimetry” plugin**
 
