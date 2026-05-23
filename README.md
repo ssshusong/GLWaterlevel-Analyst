@@ -91,7 +91,7 @@ In addition, after setting up this project folder, at each of the following step
 _(2)	Acquire altimetry data for target lake_ <br>
 Create an account for each of the platforms: **NASA Earthdata Search** and **ESA Copernicus Data Space Ecosystem**, if you do not have one before using the first tool. Jason-3 data product can be downloaded from NOAA NCEI ftp and needs no user account. 
 <br> **To Creat a NASA Earthdata account**, Click https://urs.earthdata.nasa.gov/documentation/for_users/how_to_register
-**To Creat an ESA Copernicus Data Space Ecosystem account**, Click https://documentation.dataspace.copernicus.eu/Registration.html <br>
+<br>**To Creat an ESA Copernicus Data Space Ecosystem account**, Click https://documentation.dataspace.copernicus.eu/Registration.html <br>
 
   <img width="314.7" height="466.7" alt="image15" src="https://github.com/user-attachments/assets/273c4000-5000-4c24-aec3-8d9083fa935d" />
 <br><br>
